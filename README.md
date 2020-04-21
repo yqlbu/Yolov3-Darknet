@@ -27,7 +27,7 @@ sudo chmod +x install.sh
 
 ## How to Use
 
-Simply run the three demo scripts
+Simply run the demo scripts below
 ```
 ./image.sh
 ```
