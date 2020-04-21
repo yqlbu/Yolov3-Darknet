@@ -8,13 +8,9 @@ See also the [TensorRT documentation](https://docs.nvidia.com/deeplearning/sdk/#
 
 ## Demo
 
-[](demo-screenshots/demo001.jpg)
-[](demo-screenshots/demo002.jpg)
-[](demo-screenshots/demo003.jpg)
-
-Development on the Master branch is for the latest version of [TensorRT 7.0](https://developer.nvidia.com/nvidia-tensorrt-download) with full-dimensions and dynamic shape support.
-
-For previous versions of TensorRT, refer to their respective branches.
+![](demo-screenshots/demo001.jpg)
+![](demo-screenshots/demo002.jpg)
+![](demo-screenshots/demo003.jpg)
 
 ## Setup
 ## How to Use
