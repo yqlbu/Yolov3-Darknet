@@ -16,25 +16,25 @@ Check out the complete tutorial [here](https://www.hikariai.net).
 
 ### Clone the Repository
 ```
-cd ${HOME}
-git clone https://github.com/yqlbu/Yolov3-Darknet
-cd Yolov3-Darknet
+$ cd ${HOME}
+$ git clone https://github.com/yqlbu/Yolov3-Darknet
+$ cd Yolov3-Darknet
 ```
 ### Run the Script
 ```
-sudo chmod +x install.sh
+$ sudo chmod +x install.sh
 ```
 
 ## How to Use
 
 Simply run the demo scripts below
 ```
-./image.sh
+$ ./image.sh
 ```
 ```
-./video.sh
+$ ./video.sh
 ```
 ```
-./camera.sh
+$ ./camera.sh
 ```
 You should see the same outputs as the demo screenshots shown. Enjoy !
