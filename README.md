@@ -4,7 +4,7 @@
 
 Install and run YOLOv3 on Nvidia Jetson Series. YOLOv3 is a really popular DNN (Deep Neural Network) object detection algorythm, which is really fast and works also on not so powerfull devices. \
  \
-Check out the complete tutorial [here](https://www.hikariai.net).
+Check out the complete tutorial [here](https://www.hikariai.net/edge-ai/yolov3).
 
 ## Demo
 
