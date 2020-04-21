@@ -23,6 +23,7 @@ $ cd Yolov3-Darknet
 ### Run the Script
 ```
 $ sudo chmod +x install.sh
+$ ./install.sh
 ```
 
 ## How to use
