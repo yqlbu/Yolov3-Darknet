@@ -25,7 +25,7 @@ $ cd Yolov3-Darknet
 $ sudo chmod +x install.sh
 ```
 
-## How to Use
+## How to use
 
 Simply run the demo scripts below
 ```
