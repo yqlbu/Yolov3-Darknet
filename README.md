@@ -10,7 +10,6 @@ Check out the complete tutorial [here](https://www.hikariai.net/edge-ai/yolov3).
 
 ![](demo-screenshots/demo001.jpg)
 ![](demo-screenshots/demo002.jpg)
-![](demo-screenshots/demo003.jpg)
 
 ## Setup
 
