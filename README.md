@@ -37,3 +37,4 @@ Simply run the three demo scripts
 ```
 ./camera.sh
 ```
+You should see the same outputs as the demo screenshots shown. Enjoy !
