@@ -2,9 +2,9 @@
 
 ## Intro
 
-Install and run YOLOv3 on Nvidia Jetson Series. YOLOv3 is a really popular DNN (Deep Neural Network) object detection algorythm, which is really fast and works also on not so powerfull devices.
-
-See also the [TensorRT documentation](https://docs.nvidia.com/deeplearning/sdk/#inference).
+Install and run YOLOv3 on Nvidia Jetson Series. YOLOv3 is a really popular DNN (Deep Neural Network) object detection algorythm, which is really fast and works also on not so powerfull devices. \
+ \
+Check out the complete tutorial [here](www.hikariai.net).
 
 ## Demo
 
