@@ -13,4 +13,27 @@ Check out the complete tutorial [here](https://www.hikariai.net).
 ![](demo-screenshots/demo003.jpg)
 
 ## Setup
+
+### Clone the Repository
+```
+cd ${HOME}
+git clone https://github.com/yqlbu/Yolov3-Darknet
+cd Yolov3-Darknet
+```
+### Run the Script
+```
+sudo chmod +x install.sh
+```
+
 ## How to Use
+
+Simply run the three demo scripts
+```
+./image.sh
+```
+```
+./video.sh
+```
+```
+./camera.sh
+```
