@@ -1,9 +1,9 @@
 ## Yolov3-Darknet
 
-> ### Intro
+### Intro
 ------
-> ### Demo
+### Demo
 ------
-> ### Setup
+### Setup
 ------
-> ### How to Use
+### How to Use
